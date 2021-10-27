@@ -1,8 +1,7 @@
 # hello 👋
 
-current project: Luna Staff Checker - Discord Based Hypixel Pit Staff Checker
-https://discord.gg/3yKEmaxMuZ
-(sorry not open source; pay for it lol)
+latest project: Discord Archive Quoting Bot
+https://github.com/KnightsWhoSayNi0/discordArchiveBot
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C135GL8)
 
