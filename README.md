@@ -3,7 +3,11 @@
 latest project: Discord Archive Quoting Bot
 https://github.com/KnightsWhoSayNi0/discordArchiveBot
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C135GL8)
+### Support me, maybe? (´▽`ʃ♡ƪ)
+
+btc: 397qPVz4GpWLZQhrm9RntqSgMnEVSb3uA6
+
+eth: 0x1DB39D51f08D601a54f42800397F1941F3F3107E
 
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
