@@ -1,0 +1,38 @@
+# This is a basic workflow to help you get started with Actions
+
+name: gitartwork
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: gitartwork on contribution graph
+        # You may pin to the exact commit or the version.
+        # uses: jasineri/gitartwork@0d14e1dac4a63b0ddde6f8c1ac1ff9406ac52861
+        uses: jasineri/gitartwork@v1.0.0
+        with:
+          # Username
+          user_name: KnightsWhoSayNi0
+          # Text on contribution graph
+          text: KnightsWhoSayNi0
+          # SVG file name (optional), default: gitartwork.svg
+          svg_file_name: gitartwork.svg
