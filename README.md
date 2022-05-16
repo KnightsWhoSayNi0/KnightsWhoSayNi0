@@ -1,7 +1,6 @@
 # hello 👋
 
-latest project: Discord Archive Quoting Bot
-https://github.com/KnightsWhoSayNi0/discordArchiveBot
+current project: Knight Industries [KL8 Lighting Console](https://github.com/KnightsWhoSayNi0/kl8)
 
 ### Support me, maybe? (´▽`ʃ♡ƪ)
 
