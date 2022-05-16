@@ -13,6 +13,10 @@ eth: 0x1DB39D51f08D601a54f42800397F1941F3F3107E
 
 ***big boy developer man***
 
+![stats](https://github-readme-stats.vercel.app/api?username=KnightsWhoSayNi0&theme=tokyonight)
+
+![stats langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightsWhoSayNi0&layout=compact&theme=tokyonight)
+
 <!--
 **KnightsWhoSayNi0/KnightsWhoSayNi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
