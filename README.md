@@ -1,6 +1,6 @@
 # hello 👋
 
-hey! I'm **KnightsWhoSayNi**, an apsiring cybersecurity engineer and avid maker 
+hey! I'm **KnightsWhoSayNi**, an aspiring cybersecurity engineer and avid maker 
 
 current project: Knight Industries [KL8 Lighting Console](https://github.com/KnightsWhoSayNi0/kl8)
 
