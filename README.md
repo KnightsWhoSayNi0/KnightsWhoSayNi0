@@ -10,7 +10,7 @@ eth: 0x1DB39D51f08D601a54f42800397F1941F3F3107E\
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=KnightsWhoSayNi0&theme=tokyonight">
 </div> -->
 <div style="text-align: right">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightsWhoSayNi0&layout=compact&theme=tokyonight">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightsWhoSayNi0&layout=compact&theme=tokyonight">
 </div>
 
 ![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg) ![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
