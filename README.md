@@ -1,5 +1,5 @@
 # Hello! 👋
-hey! I'm **KnightsWhoSayNi**, an aspiring cybersecurity engineer and avid maker.\
+hey! I'm **KnightsWhoSayNi**, an aspiring cybersecurity engineer, researcher, and avid maker.\
 The majority of my repositories are private, however if you contact me I'm happy to provide work experience.
 
 <img align="right" width="100px" src="/qrcodes/btc.svg">
