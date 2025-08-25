@@ -1,13 +1,13 @@
 # Hello! 👋
-hey! I'm **KnightsWhoSayNi**, an aspiring cybersecurity engineer, researcher, and avid maker.\
+hey! I'm **KnightsWhoSayNi**, an aspiring cybersecurity engineer, researcher, and avid maker.
 
 <img align="right" width="100px" src="/img/rit.png">
 <hr align="left">
-**Rochester Institute of Technology** - Class of 2029/2031 - Cybersecurity BS/MS\
+**Rochester Institute of Technology** - Class of 2029/2031 - Cybersecurity BS/MS
+
 <hr align="left">
 
 I also design sound and lighting for semi-professional theatre.\
-
 The majority of my repositories are private, however if you contact me I'm happy to provide work experience.
 
 <img align="right" width="100px" src="/img/btc.svg">
