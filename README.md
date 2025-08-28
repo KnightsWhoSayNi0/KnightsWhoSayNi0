@@ -3,6 +3,7 @@ hey! I'm **KnightsWhoSayNi**, an aspiring cybersecurity engineer, researcher, an
 
 <img align="right" width="100px" src="/img/rit.png">
 <hr align="left">
+
 **Rochester Institute of Technology** - Class of 2029/2031 - Cybersecurity BS/MS
 
 <hr align="left">
