@@ -1,6 +1,6 @@
 # Hello! 👋
 <img align="right" width="100px" src="/img/rit.png">
-hey! I'm **KnightsWhoSayNi**, an aspiring cybersecurity engineer, researcher, and avid maker.
+hey! I'm <strong>KnightsWhoSayNi</strong>, an aspiring cybersecurity engineer, researcher, and avid maker.
 
 
 <hr align="left">
