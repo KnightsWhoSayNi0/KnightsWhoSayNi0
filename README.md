@@ -15,11 +15,6 @@ Presentations:
 - [Zero Trust Architectures](https://www.youtube.com/watch?v=k3pX6QV10RY)
 - [Unix History](https://www.youtube.com/watch?v=MBVdpgvlemk)
 
-<img align="right" width="200px" src="https://raw.githubusercontent.com/SecurityRiskAdvisors/VECTR/refs/heads/master/media/SRA-logo-primary.png">
-<hr align="left">
-
-Advisory Blue Team Coop at [**Security Risk Advisors**](https://sra.io)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightsWhoSayNi0&theme=dark&show_icons=true&hide_border=true&layout=compact">
 <hr align="left">
 
